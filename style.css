@@ -1,0 +1,38 @@
+body
+{
+    font-family: 'La Belle Aurore', cursive;
+    background-color: green;
+}
+.header_div
+{
+    background-color: white;
+    color: red;
+}
+.header_div p
+{
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.main_div button
+{
+    letter-spacing: 2px;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    width: 130px;
+    margin-top: 30px;
+}
+.copy_right_footer
+{
+    text-align: center;
+    color: grey;
+    text-shadow: 5px 5px 5px gray;
+    position: fixed;
+    line-height: 3;
+    background-color: white;
+    width: 100%;
+    font-size: 18px;
+    bottom:0;
+}
